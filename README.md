@@ -1,5 +1,16 @@
 ### bio or something idk
 
+Hello coders of the internet! My name is Suhas
+
+Random facts about me:
+
+- i suck at coding
+- im a teenager
+- username/username is a special repository because its readme.md appears on your github profile
+
+
+
+
 <!--
 **svcodes/svcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
