@@ -5,8 +5,27 @@ Hello coders of the internet! My name is Suhas
 Random facts about me:
 
 - i suck at coding
-- im a teenager
+- im 13
 - username/username is a special repository because its readme.md appears on your github profile
+- I am a dude
+
+I am currently learning:
+
+- how to code lol
+  - python
+  - java
+  - javascript
+  
+- how to not fail highschool
+
+How to reach me?
+
+discord is the fastest way
+
+idiot.exe#6091 is my username
+
+ok goodbye
+
 
 
 
