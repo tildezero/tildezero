@@ -22,7 +22,7 @@ How to reach me?
 
 discord is the fastest way
 
-idiot.exe#6091 is my username
+idiot.exe#1231 is my username
 
 ok goodbye
 
