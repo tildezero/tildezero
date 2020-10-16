@@ -5,7 +5,7 @@ Hello coders of the internet! My name is Suhas
 Random facts about me:
 
 - i suck at coding
-- im 13
+- i exist
 - username/username is a special repository because its readme.md appears on your github profile
 - I am a dude
 
