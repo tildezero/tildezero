@@ -8,6 +8,7 @@ Random facts about me:
 - i exist
 - username/username is a special repository because its readme.md appears on your github profile
 - I am a dude
+- I like airplanes and aviations
 
 I am currently learning:
 
