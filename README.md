@@ -27,12 +27,14 @@ idiot.exe#1231 is my username
 
 ok goodbye
 
+## other random stuff that github asked me to add
 Pronouns: he/him
 Languages i'm experienced in: none lmao
 
 Tools I use: GitHub ofc, Visual Studio Code, IntelliJ IDEA, repl.it
 
-
+## what im probably doing
+gaming.
 
 <!--
 **svcodes/svcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
