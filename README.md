@@ -23,7 +23,7 @@ How to reach me?
 
 discord is the fastest way
 
-idiot.exe#1231 is my username
+ZeroMomentum#1231 is my username
 
 ok goodbye
 
