@@ -1,6 +1,6 @@
 ### bio or something idk
 
-Hello coders of the internet! My name is Suhas
+Hello coders of the internet! My name is ZeroMomentum (zero for short)
 
 Random facts about me:
 
