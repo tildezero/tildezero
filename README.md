@@ -36,6 +36,8 @@ Tools I use: GitHub ofc, Visual Studio Code, IntelliJ IDEA, repl.it
 ## what im probably doing
 gaming.
 
+<a rel="me" href="https://mstdn.social/@zeromomentum">Mastodon</a>
+
 <!--
 **svcodes/svcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
