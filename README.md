@@ -8,6 +8,7 @@
 - (and everything else)
 - he/him
 - airplane is cool
+- i forgor 💀
 
 ### learning (for 13 seconds then forgetting)
 - python
