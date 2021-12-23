@@ -12,9 +12,8 @@
 
 ### learning (for 13 seconds then forgetting)
 - python
-- java(script)
-- v
-- how to be not stupid
+- go
+- how to not be a failure
 
 [internet](https://zeromomentum.me)
 [contact](https://zeromomentum.me/contact)
