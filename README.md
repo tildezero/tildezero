@@ -13,7 +13,7 @@
 ### learning (for 13 seconds then forgetting)
 - python
 - go
-- how to not be a failure
+- how to get good
 
 [internet](https://zeromomentum.me)
 [contact](https://zeromomentum.me/contact)
