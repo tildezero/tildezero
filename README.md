@@ -15,7 +15,6 @@
 - go
 - how to get good
 
-[internet](https://zeromomentum.me)
-[contact](https://zeromomentum.me/contact)
-[keybase](https://keybase.io/zeromomentum)
+[internet](https://suhas.one)
+
 [mastodon](https://mstdn.social/@zeromomentum)
