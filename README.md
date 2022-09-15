@@ -18,3 +18,6 @@
 [internet](https://suhas.one)
 
 [mastodon](https://mstdn.social/@zeromomentum)
+
+### [gitlab](https://gitlab.com/sv)
+### [sourcehot](https://sr.ht/~zeromomentum)
