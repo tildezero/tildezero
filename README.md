@@ -1,9 +1,5 @@
-# 🤯
+# github.com/tildezero
 
-sometimes i code, sometimes i dont
+high schooler, occasional programmer, full time failure
 
-⚠️ warning: some of my code is very "interesting"
-
-[this is mine](https://proven.lol/750aa9)
-
-## [links](https://suhas.omg.lol)
+[my links](https://suhas.omg.lol)
