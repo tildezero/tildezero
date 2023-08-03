@@ -1,6 +1,6 @@
 # github.com/tildezero
 
-high schooler, occasional programmer, full time failure
+high schooler, occasional programmer
 
 [my links](https://suhas.omg.lol)
 
