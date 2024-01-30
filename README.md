@@ -10,3 +10,4 @@ high schooler, occasional programmer
 - [home access center cli](https://github.com/tildezero/hac)
 - [spring app to rate classes (and it also has gpt !!)](https://github.com/79t/rmc)
 - [quizbowl bot](https://github.com/tildezero/qbb)
+- [another url shortener (but it's serverless and uses deno)](https://git.sr.ht/~suhas/url)
