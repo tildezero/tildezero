@@ -7,7 +7,7 @@ high schooler, occasional programmer
 ### some projects 
 
 - everything in the pins
-- [home access center cli](https://github.com/tildezero/hac)
-- [spring app to rate classes (and it also has gpt !!)](https://github.com/79t/rmc)
-- [quizbowl bot](https://github.com/tildezero/qbb)
-- [another url shortener (but it's serverless and uses deno)](https://git.sr.ht/~suhas/url)
+- [serverless deno url shortener](https://git.sr.ht/~suhas/url)
+- [custom discord bot with modmail functionality](https://github.com/tildezero/nebula)
+- robotics stuff: [vrc 2024 over under](https://github.com/tildezero/rockrobobutvex) and [ftc 2024 centerstage](https://github.com/team24167/centerstage)
+- [svelte app to vote on hackathon themes](https://github.com/hackaustin/prompter) (built for [hack austin](https://hackaustin.net) 2022)
