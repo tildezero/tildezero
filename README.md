@@ -1,6 +1,6 @@
 # github.com/tildezero
 
-high schooler, occasional programmer
+cs @ ut austin, occasional programmer
 
 [my links](https://suhas.omg.lol)
 
