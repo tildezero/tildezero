@@ -1,4 +1,4 @@
-# github.com/tildezero
+# suhas's github!
 
 cs @ ut austin, occasional programmer
 
